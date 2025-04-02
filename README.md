@@ -27,7 +27,7 @@ Zadanie 2 Scala
 pobierane z listy
 
 ✅ 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy
-zgodnie z CRUD
+zgodnie z CRUD [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/19d54ffa5029ed7ae182f1871ff669bc37ae3b6d)
 
 4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać
 skrypt uruchamiający aplikację via ngrok
