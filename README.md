@@ -79,7 +79,7 @@ przesyłane za pomocą React hooks.
 ✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
 Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
 Produktach powinniśmy pobierać dane o produktach z aplikacji
-serwerowej; (nie chciało m i całej aplikacji na raz dodać więc musiałem kilka commitów) [commit1](https://github.com/T-H-A-N-N/ebiznes25/commit/96e67e0b1a42943f9df8add168a79dac2cec0fa1) 
+serwerowej; (nie chciało mi całej aplikacji na raz dodać więc musiałem kilka commitów) [commit1](https://github.com/T-H-A-N-N/ebiznes25/commit/96e67e0b1a42943f9df8add168a79dac2cec0fa1) 
 
 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing
 
