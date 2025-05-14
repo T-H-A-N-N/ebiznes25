@@ -113,7 +113,7 @@ Zadanie 7 Sonar
 hookach gita [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/fb408daa7709a37d22fe157351c0ab24f658ee01)
 
 ✅ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
-aplikacji serwerowej) [commit]()
+aplikacji serwerowej) [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/6edaabc8eacb679db9e39bc7e4058de9fe324f4b)
 
 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
 aplikacji serwerowej)
@@ -123,3 +123,25 @@ w kodzie w Sonarze (kod aplikacji serwerowej)
 
 5.0 Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie
 aplikacji klienckiej
+
+Zadanie 8 Oauth2
+
+Należy skonfigurować klienta Oauth2 (4.0). Dane o użytkowniku wraz z
+tokenem powinny być przechowywane po stronie bazy serwera, a nowy
+token (inny niż ten od dostawcy) powinien zostać wysłany do klienta
+(React). Można zastosować mechanizm sesji lub inny dowolny (5.0).
+Zabronione jest tworzenie klientów bezpośrednio po stronie React'a
+wyłączając z komunikacji aplikację serwerową, np. wykorzystując auth0.
+
+Prawidłowa komunikacja: react-sewer-dostawca-serwer(via return
+uri)-react.
+
+3.0 logowanie przez aplikację serwerową (bez Oauth2)
+
+3.5 rejestracja przez aplikację serwerową (bez Oauth2)
+
+4.0 logowanie via Google OAuth2
+
+4.5 logowanie via Facebook lub Github OAuth2
+
+5.0 zapisywanie danych logowania OAuth2 po stronie serwera
