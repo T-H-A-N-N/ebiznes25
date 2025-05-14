@@ -105,7 +105,7 @@ projektu z minimum 50 asercjami
 ✅ 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
 minimum jednym scenariuszem negatywnym per endpoint [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/be89792763ea5fb43c4193baad1325f2857d9ce3)
 
-5.0 Należy uruchomić testy funkcjonalne na Browserstacku
+✅ 5.0 Należy uruchomić testy funkcjonalne na Browserstacku [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/f2f424ba0a01484aa67fb46e321b4205d4a038f5)
 
 Zadanie 7 Sonar
 
