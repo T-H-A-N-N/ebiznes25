@@ -93,16 +93,16 @@ kliencką na dockerze via docker-compose
 
 Zadanie 6 testy
 
-3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
+✅ 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
 (Kotlin, Python, Java, JS, Go, Scala)
 
-3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
+✅ 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
 asercji
 
-4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
+✅ 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
 projektu z minimum 50 asercjami
 
-4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
+✅ 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
 minimum jednym scenariuszem negatywnym per endpoint [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/be89792763ea5fb43c4193baad1325f2857d9ce3)
 
 5.0 Należy uruchomić testy funkcjonalne na Browserstacku
