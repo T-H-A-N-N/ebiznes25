@@ -109,11 +109,11 @@ minimum jednym scenariuszem negatywnym per endpoint
 
 Zadanie 7 Sonar
 
-3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w
-hookach gita
+✅ 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w
+hookach gita [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/fb408daa7709a37d22fe157351c0ab24f658ee01)
 
-3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
-aplikacji serwerowej)
+✅ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji serwerowej) [commit]()
 
 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
 aplikacji serwerowej)
