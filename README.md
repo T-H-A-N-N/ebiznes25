@@ -149,7 +149,7 @@ uri)-react.
 Zadanie 9 ChatGPT bot
 
 ✅ 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z
-chatGPT do usługi chat
+chatGPT do usługi chat [commit](https://github.com/T-H-A-N-N/ebiznes25/commit/936597c6abfa1acc72afb0304dd60417fa2aad23)
 
 3.5 należy stworzyć interfejs frontowy dla użytkownika, który
 komunikuje się z serwisem; odpowiedzi powinny być wysyałen do
