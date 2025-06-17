@@ -1,0 +1,21 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  publish_images:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: build image
+        run: |
+          docker build ./server/ -t th4nn/server10testamd:latest
+          docker build ./client/ -t th4nn/client10testamd:latest
+      - name: push image to docker hub
+        run: |
+          docker login -u th4nn -p ${{ secrets.DOCKER_HUB_TOKEN }}
+          docker push th4nn/server10testamd:latest
+          docker push th4nn/client10testamd:latest
