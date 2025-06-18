@@ -161,3 +161,30 @@ frontendowego interfejsu
 ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT
 
 5.0 filtrowanie odpowiedzi po sentymencie
+
+Zadanie 10 Chmura/CI
+
+Należy wykorzystać GitHub Actions (dopuszczalne są inne rozwiązania
+CI) oraz chmurę Azure (dopuszczalne inne chmury), aby zbudować oraz
+zdeployować aplikację kliencką (frontend) oraz serwerową (backend)
+jako osobne dwie aplikacje. Należy do tego wykorzystać obrazy
+dockerowe, a aplikacje powinny działać na kontenerach. Dopuszczalne
+jest zbudowanie wcześniej aplikacji (jar package) oraz budowanie
+aplikacji via Github Actions. Należy zwrócić uwagę na zasoby dostępne
+na chmurze.
+
+✅ 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
+dockerze [commit1](https://github.com/T-H-A-N-N/testAzure/commit/f512b0b7f7aedda539826ad53698587fa52cb507) [commit2](https://github.com/T-H-A-N-N/testAzure/commit/32cc5e0752171107b90f3d4fc1f7d5470e07babb)
+
+✅ 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania
+aplikacji (np. via fatjar) [commit](https://github.com/T-H-A-N-N/testAzure/commit/5b8cb8ee4d23373f08bb8c494224a5ba919f3d39)
+
+4.0 Dodać notyfikację mailową o zbudowaniu aplikacji
+
+4.5 Dodać krok z deploymentem aplikacji serwerowej oraz klienckiej na
+chmurę
+
+5.0 Dodać uruchomienie regresyjnych testów automatycznych
+(funkcjonalnych) jako krok w Actions
+
+[kod](https://github.com/T-H-A-N-N/testAzure)
